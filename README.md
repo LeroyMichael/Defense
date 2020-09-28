@@ -7,6 +7,7 @@ The project is still in progress.
 * Android Studio
 * Java
 * Adobe XD
+* Firebase
 
 # Early Design Preview.
 
