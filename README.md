@@ -1,4 +1,4 @@
-# Project Description - Defence
+# Project Description - Defense
 A mobile application to solve problems in the difficulty of finding a basketball court.
 This project was created using java with firebase and will be recreated using kotlin.
 The project is still in progress.
